@@ -8,4 +8,4 @@ The calculation method of the 60 Jiazi （Sexagenary cycle）is based on the yea
 
 At first, I thought that ChatGPT could calculate the heavenly stem and earthly branch, but I found that it had a poor understanding of the calculation method of the Chinese lunar calendar and the heavenly stem and earthly branch. The calculation method of the heavenly stem and earthly branch in China is based on the year, month, day, and hour. I wrote a simple program in the Python programming language to calculate the heavenly stem and earthly branch corresponding to a given date, and I hope it can help those in need. The program has been verified to be correct.
 
-If you got confused with Chinese calendar calculation, you can contact me at liudan@ynhanfu.com.
+If you got confused with Chinese calendar calculation, please leave a comment.
